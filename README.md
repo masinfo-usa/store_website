@@ -1,6 +1,6 @@
 I tried making a template for a store website.
 
-It is hosted on Render.com
+It is deployed on Render.com
 
 Frontend: React.js with MaterialUI framework.
 Backend: MongoDB
