@@ -47,7 +47,7 @@ function App() {
             <Link href="/create" color='#fff' underline="none">Add Product</Link>
             <Link href="#our-process" color='#fff' underline="none">Our Process</Link>
             <Link href="#contact-us" color='#fff' underline="none">Contact Us</Link>
-            <Link href="#halal-certifications" color='#fff' underline="none">Halal Certifications</Link>
+            <Link href="#certifications" color='#fff' underline="none">Certifications</Link>
             <Link href="#faqs" color='#fff' underline="none">FAQs</Link>
             <Link href="/testpage" color='#fff' underline="none">TestPage</Link>
           </Stack>
