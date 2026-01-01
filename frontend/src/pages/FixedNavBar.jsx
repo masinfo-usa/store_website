@@ -45,7 +45,7 @@ const links = [
   { text: "Add Product", href: "/create" },
   { text: "Our Process", href: "/our-process" },
   { text: "Contact Us", href: "/contact-us" },
-  { text: "Halal Certifications", href: "/halal-certifications" },
+  { text: "Certifications", href: "/certifications" },
   { text: "FAQs", href: "/faqs" },
   { text: "Test Page", href: "/testpage" },
 ];
@@ -64,7 +64,7 @@ function FixedNavBar() {
     "Search Thigh Boneless",
   ];
   const productSuggestions = [
-    "Halal Beef",
+    "Beef",
     "Chicken Breast",
     "Lamb Full",
     "Beef Brisket",
