@@ -49,7 +49,6 @@ const HomePage = () => {
           color="text.primary"
           ml={0}
         >
-          Chicken 
           Aspect Ratio: {currentAspectRatio.toFixed(2)}, {(currentAspectRatio * 2.5).toFixed(2)}
           {/* {window.innerWidth}x{window.innerHeight},  */}
         </Typography>
